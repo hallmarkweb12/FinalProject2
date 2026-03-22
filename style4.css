@@ -1,0 +1,20 @@
+body{
+    background: black;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#projects h1{
+    font-weight: 900;
+}
+.card{
+    border: 0;
+    border-radius: 10px;
+    box-shadow: 0px 0px 15px #00f;
+}
+.card-img-top{
+    padding: 18px;
+    height: 13rem;
+    object-fit: contain;
+}
+.card-text{
+    color: grey;
+}
